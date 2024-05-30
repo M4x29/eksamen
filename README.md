@@ -4,7 +4,7 @@ For å løse denne eksamen valgte jeg å lage en nettside som er en brukerveiled
 ### Bygget med ⚡ 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,svelte,tailwind, docker" />
+    <img src="https://skillicons.dev/icons?i=svelte,tailwind,docker" />
   </a>
 </p>
 
